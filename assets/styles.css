@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    font-family: sans-serif;
+}
+
+#pheader{
+    text-align: center;
+    background-color:rgb(1, 85, 1)
+}
+
+
+#pnav{
+    background-color:black;
+    display: block;
+    text-align: center;
+}
+
+#pnav ul,li,a{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+}
+
+#pmain{
+    margin: 75px 50px;
+    background-color:ghostwhite;
+}
+
+#video{
+    text-align: center;
+    margin: auto;
+}
+
+#formulario{
+    padding: 10px;
+    width: 50%;
+    box-shadow: 5px 10px black;
+    margin: auto;
+    background-color:lightgray
+}
+
+#formulario h2{
+    text-align: center;
+}
+
+#formulario label{
+    display: block;
+}
+
+#formulario input,button{
+    width: 95%;
+}
+
+#areamensaje{
+    min-width: 95%;
+    max-width: 95%;
+    max-height: 150px;
+}
+
+#pfooter{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background-color: black
+}
+
+#pfooter p, a{
+    display: inline-flex;
+    color: ghostwhite;
+    margin: 8px;
+}
+
+#pfooter a{
+
+    text-decoration: underline;
+}
+
+iframe{
+    margin: 75px;
+}
+
+#impacto{
+    margin: auto;
+    margin-bottom: 50px;
+    width: 30%;
+    text-align: center;
+}
+
+#historia{
+    margin: auto;
+    margin-bottom: 50px;
+    width: 30%;
+    text-align: center;
+    font-size: 17px;
+}
+
+#mision{
+    margin: auto;
+    margin-bottom: 50px;
+    width: 30%;
+    text-align: center;
+}
+
+section h2{
+    font-size: 15px;
+    text-decoration: underline;
+    margin-bottom: 6px;
+}
+
+body{
+    background-color: ghostwhite;
+}
